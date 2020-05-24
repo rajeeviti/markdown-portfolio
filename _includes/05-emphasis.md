@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Emphasized Message
+**My name is Rajeev**
+
+*My wife's name is Iti*
+
+_What can **I say** life is beautiful_
